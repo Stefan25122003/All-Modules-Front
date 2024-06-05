@@ -108,7 +108,7 @@ body.modal-open {
 .text-box-left {
     width: 28%; /* Adjust as needed */
     min-width: 170px;
-    padding: 10px; /* Adjust as needed */
+    padding: 20px; /* Adjust as needed */
     box-sizing: border-box; /* Include padding and border in element's total width and height */
     background-color: #effaf4;
     border-radius: 15px;
